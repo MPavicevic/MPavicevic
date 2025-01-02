@@ -19,6 +19,9 @@ Hello! I'm Matija Pavičević, Ph.D., an expert in energy system modeling and op
 - **University of Zagreb:** Developed the H2RES model and managed grant-funded projects.
 
 ## 🚀 Projects
+### By-pass solver
+Developed a by-pass optimization tool
+
 ### DARKO Model
 Developed the open-source day-ahead energy market optimization (DARKO) model, integrating novel ideas for optimal scheduling of storage technologies.
 
